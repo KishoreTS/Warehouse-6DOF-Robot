@@ -290,7 +290,7 @@ void GetMpuValue1(const int MPU) {
   Serial.print("AngleZ= ");
   Serial.print(z);
   Serial.print("\t");
-  Serial.println("-----------just try------------------------------");
+  Serial.println("----------success-------------------");
  
  delay(2000);
 }
